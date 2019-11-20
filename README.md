@@ -1,7 +1,12 @@
-# [Now UI Dashboard](https://demos.creative-tim.com/now-ui-dashboard/examples/dashboard.html) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/home?status=Now%20UI%20Dashboard%20by%20Creative%20Tim%20https%3A//demos.creative-tim.com/now-ui-dashboard/examples/dashboard.html%20%40CreativeTim%20%23html%20%23dashboard%20%23nowuidesign%20%40creativetim)
+# [Now UI Dashboard](https://demos.creative-tim.com/now-ui-dashboard/examples/dashboard.html) 
 
+**Now UI Dashboard** is a responsive Bootstrap 4 kit provided for free by [Invision](https://www.invisionapp.com/) and [Creative Tim](https://www.creative-tim.com/). It combines colors that are easy on the eye, spacious cards, beautiful typography, and graphics. Now UI Dashboard comes packed with all plugins that you might need inside a project and documentation on how to get started. It is light and easy to use, and also very powerful.
 
-![version](https://img.shields.io/badge/version-1.3.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/now-ui-dashboard.svg)](https://github.com/creativetimofficial/now-ui-dashboard/issues?q=is%3Aopen+is%3Aissue) [![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/creativetimofficial/now-ui-dashboard.svg?maxAge=259200)](https://github.com/creativetimofficial/now-ui-dashboard/issues?q=is%3Aissue+is%3Aclosed)
+<br />
+
+> **In love with this dashboard?** Check out the [open-source version coded in Flask](https://github.com/app-generator/flask-now-ui-dashboard). **Features:** SQLite Database, Session-Based Authentication, Flat Html converted to Jinja2, clean code-base. 
+
+<br />
 
 ![Product Gif](assets/img/now-ui-dashboard.gif)
 
